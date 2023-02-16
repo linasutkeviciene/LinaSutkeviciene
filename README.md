@@ -1,4 +1,4 @@
-![logo]([https://github.com/linasutkeviciene/Some-of-my-projects/blob/main/header.png](https://github.com/linasutkeviciene/linasutkeviciene/blob/main/header.png))
+
 <h1 align="center">Hi 👋, I'm Lina!</h1>
 <h3 align="center">A passionate data analyst from Lithuania</h3>
 
